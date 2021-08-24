@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Intern {
 	
-	// comments from Rajesh
+	// comments from Rajesh_S
 	//Comments
 	private int internId;
 	private String internFirstName;
