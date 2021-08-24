@@ -3,7 +3,7 @@ package com.yash.entity;
 import java.util.Date;
 
 public class Intern {
-	
+	// comments continued......
 	// comments from Rajesh_S
 	//Comments
 	private int internId;
